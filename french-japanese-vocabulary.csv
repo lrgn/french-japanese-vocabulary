@@ -1,7 +1,9 @@
+; ボルト; boulon; de l'anglais "bolt"
 ; レンガ; brique
 ; レジ; caisse; de l'anglais "register"
 ; チャンス; chance, occasion; de l'anglais "chance"
 ; レーシック; chirurgie des yeux au lazer
+; ビリ; dernier de la liste, bon dernier
 ; メール; e-mail; de l'anglais "mail"
 ; ジーパン; jeans (pantalon); de l'anglais "jeans"
 ; シロップ; sirop
@@ -42,6 +44,7 @@
 受取; うけとり; reçu
 古本; ふるほん; livre d'occasion, vieux livre
 古里; ふるさと; pays natal, village natal
+右利き; みぎきき; droitier
 名産; めいさん; spécialité (locale), produit réputé
 向日葵; ひまわり; tournesol
 吹き出し; ふきだし; bulle de bande dessinée
@@ -57,12 +60,14 @@
 字幕; じまく; sous-titre
 学割; がくわり; réduction étudiante
 宇宙; うちゅう; univers, espace, cosmos
+定理; ていり; théorème
 定番; ていばん; standard, stéréotype
 室温; しつおん; température de la pièce, température ambiante
 寝付く; ねつく・ねつきます; s'endormir, trouver le sommeil
 審判; しんぱん; arbitre, juge
 山荘; さんそう; chalet
 山頂; さんちょう; sommet d'une montagne, pic
+左利き; ひだりきき; gaucher
 巨大; きょだい; énorme, gigantesque, colossal
 年を取る; としをとる・としをとります; vieillir, prendre de l'âge, devenir vieux
 当番; とうばん; être en service, être de garde
@@ -87,11 +92,13 @@
 晴天; せいてん; beau temps, ciel calme
 暗号; あんごう; mot de passe, code
 曲; きょく; morceau de musique, air musical, mélodie
+有利; ゆうり; avantageux
 朝焼け; あさやけ; couleurs du ciel à l'aube
 本部; ほんぶ; siège social, quartier général
 本館; ほんかん; bâtiment principal
 束の間; つかのま; instant, bref moment
 ご来光; ごらいこう; lever du soleil vu du haut d'une montagne
+〜杯; 〜はい; compteur boissons dans des tasses ou des verres
 梯子; はしご; échelle
 檜; ひのき; cyprès du Japon
 毒; どく; poison, venin
@@ -101,6 +108,7 @@
 汁; しる; soupe, jus, bouillon
 〜泊; 〜はく; compteur pour les nuits d'un séjour
 お洒落; おしゃれ; élégant, bien habillé
+深夜; しんや; tard dans la nuit
 お湯; おゆ; eau chaude
 湿布; しっぷ; compresse, cataplasme
 満喫; まんきつ; profiter pleinement de, avoir une quantité suffisante de ou de ne plus avoir besoin de
@@ -110,6 +118,7 @@
 牧師; ぼくし; pasteur, révérend
 特訓; とっくん; entraînement intensif
 現代的; げんだいてき; moderne
+理系; りけい; science (matière)
 生やす; はやす・はやします; laisser pousser (plantes, barbe)
 発券; はっけん; émission (billet, ticket, reçu)
 発酵; はっこう; fermentation
@@ -123,6 +132,7 @@
 相当; そうとう; convenable, approprié
 真っ黒; まっくろ; tout noir, noir comme du charbon
 着替える; きがえる・きがえます; changer de vêtement, se changer
+短所; たんしょ; défaut, point faible, imperfection
 研修; けんしゅう; formation, apprentissage
 神父; しんぷ; abbé, Père
 移動; いどう; déplacement, mouvement, migration
@@ -142,8 +152,11 @@
 胃痛; いつう; mal au ventre
 脱水; だっすい; déshydratation, évaporation
 腐る; くさる・; pourir, se corrompre, devenir mauvais (aliment)
+舐める; なめる・なめます; lécher, goûter
 船長; せんちょう; capitaine d'un navire
 芋; いも; patate
+芸能人; げいのうじん; artiste du spectacle (comédien, danseur, chanteur, acteur)
+芸能界; げいのうかい; monde de l'industrie du spectacle
 草履; ぞうり; sandales en paille de riz
 落ち着き; おちつき; calme, aplomb, sérénité
 葬式; そうしき; funérailles, obsèques, enterrement
@@ -162,6 +175,7 @@
 迷信; めいしん; superstition
 運; うん; fortune, chance, destinée
 郵送する; ゆうそうする・ゆうそうします; poster, expédier (une lettre)
+酉年; とりどし; année du coq
 酸性; さんせい; acidité
 重大; じゅうだい; important, grave, sérieux
 金属; きんぞく; métal
@@ -172,6 +186,7 @@
 銀行口座; ぎんこうこうざ; compte en banque
 錆びる; さびる・さびます; rouiller
 錠剤; じょうざい; comprimé, pastille, pilule, cachet
+長所; ちょうしょ; point fort, avantage
 閉店; へいてん; fermeture d'un magasin (fin de journée)
 限定; げんてい; limitation, restriction
 集合; しゅうごう; rassemblement, assemblée, réunion
