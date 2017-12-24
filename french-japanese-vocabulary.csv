@@ -5,6 +5,7 @@
 ; レーシック; chirurgie des yeux au lazer
 ; ビリ; dernier de la liste, bon dernier
 ; メール; e-mail; de l'anglais "mail"
+; ファイル; fichier; de l'anglais "file"
 ; ジーパン; jeans (pantalon); de l'anglais "jeans"
 N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, lors de
 ; シロップ; sirop
@@ -48,6 +49,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 切断; せつだん; coupure, amputation
 割り勘; わりかん; paiement partagé
 割引; わりびき; réduction, rabais, remise
+助手; じょしゅ; assistant, aide
 勘違い; かんちがい; malentendu, erreur
 勝負; しょうぶ; match, combat
 半袖; はんそで; manches courtes
@@ -70,11 +72,15 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 国内; こくない; national
 在り処; ありか; emplacement
 地名; ちめい; toponyme, nom d'un lieu
+塔; とう; tour, reliquaire, pagode
 塩田; えんでん; marais salant
 夕焼け; ゆうやけ; coucher du soleil, crépuscule
 大使; たいし; ambassadeur
+大将; たいしょう; général, amiral, chef
 天国; てんごく; paradis
 天才; てんさい; génie, prodige
+天皇; てんのう; empereur du Japon
+奇跡; きせき; miracle
 妖精; ようせい; fée, esprit
 姉妹; しまい; soeurs
 字幕; じまく; sous-titre
@@ -100,6 +106,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 怪獣; かいじゅう; monstre
 情感; じょうかん; émotion, sentiment, sensibilité
 意義; いぎ; signification, sens, valeur
+愛想; あいそう; amabilité
+成分; せいぶん; ingrédient, composant
 我儘; わがまま; égoïsme, caprice, désobéissance
 我儘な子供; わがままなこども; enfant gâté
 戦車; せんしゃ; char, tank
@@ -114,6 +122,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 敗戦; はいせん; défaite (d'une guerre)
 方言; ほうげん; dialecte
 日帰り; ひがえり; voyage d'une journée
+昼寝; ひるね; sieste
 時差ぼけ; じさぼけ; fatigue du décalage horaire, jetlag
 晴天; せいてん; beau temps, ciel calme
 暗号; あんごう; mot de passe, code
@@ -121,6 +130,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 更新; こうしん; renouvellement, mise à jour, amélioration
 有利; ゆうり; avantageux
 朝焼け; あさやけ; couleurs du ciel à l'aube
+本店; ほんてん; siège, magasin, bureau central
 本部; ほんぶ; siège social, quartier général
 本館; ほんかん; bâtiment principal
 束の間; つかのま; instant, bref moment
@@ -128,6 +138,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 来日; らいにち; venue au Japon
 〜杯; 〜はい; compteur boissons dans des tasses ou des verres
 梯子; はしご; échelle
+模様; もよう; motif, figure, aspect
 檜; ひのき; cyprès du Japon
 正面; しょうめん; face, front
 段ボール; だんボール; carton
@@ -179,6 +190,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 神父; しんぷ; abbé, Père
 移動; いどう; déplacement, mouvement, migration
 移動する; いどうする・いどうします; se déplacer, migrer
+種; たね; graine, pépin, grain
 立食; りっしょく; buffet
 立ち食い; たちぐい; fait de manger debout, au comptoir
 立ち飲み; たちのみ; fait de boire debout, au comptoir
@@ -186,6 +198,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 純粋; じゅんすい; pure, véritable, vrai
 素麺; そうめん; nouilles japonaises au vermicelle
 経営者; けいえいしゃ; directeur, manager, propriétaire
+継続; けいぞく; continuation, continuité
 綴り; つづり; orthographe
 線路; せんろ; rail, voie ferrée
 締める; しめる・しめます; attacher, serrer, fixer (qqch)
@@ -207,6 +220,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 葬式; そうしき; funérailles, obsèques, enterrement
 蒸し鶏; むしどり; poulet cuit à la vapeur
 薬局; やっきょく; pharmacie
+虹彩; こうさい; iris (oeil)
 要る; いる・いります; avoir besoin de
 要求; ようきゅう; demande, requête
 要求する; ようきゅうする・ようきゅうします; demander, faire une requête
@@ -228,6 +242,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 通貨ペア; つうかペア; currency pair
 通り過ぎる; とおりすぎる・とおりすぎます; passer devant, dépasser, traverser
 運; うん; fortune, chance, destinée
+遺跡; いせき; vestiges, ruines
+還暦; かんれき; 60ème anniversaire
 郵送する; ゆうそうする・ゆうそうします; poster, expédier (une lettre)
 都; みやこ; capitale
 酉年; とりどし; année du coq
@@ -236,6 +252,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 金属; きんぞく; métal
 金貨; きんか; pièce d'or
 金運; きんうん; chance en argent, fortune
+鉄橋; てっきょう; pont en fer, pont de voie ferrée, pont de chemin de fer
 鉄道; てつどう; chemins de fer
 鉢巻; はちまき; serre-tête, bandeau
 銀行口座; ぎんこうこうざ; compte en banque
@@ -244,13 +261,16 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 長所; ちょうしょ; point fort, avantage
 閉店; へいてん; fermeture d'un magasin (fin de journée)
 限定; げんてい; limitation, restriction
+除く; のぞく・のぞきます; ôter, retirer, excepter
 集合; しゅうごう; rassemblement, assemblée, réunion
 離陸; りりく; décollage
 革; かわ; cuir, peau (d'un fruit/légume)
 革命; かくめい; révolution
 音声; おんせい; voix
+順番; じゅんばん; ordre, tour
 領事館; りょうじかん; consulat
 飯; めし; repas, riz cuit (famillié)
+飾り; かざり; décoration, ornement
 餌; えさ; appât, nourriture pour animaux
 あばら骨; あばらぼね; côte (os)
 魔除け; まよけ; charme, amulette, talisman
