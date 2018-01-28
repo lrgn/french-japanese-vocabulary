@@ -8,11 +8,13 @@
 ; ファイル; fichier; de l'anglais "file"
 ; ジーパン; jeans (pantalon); de l'anglais "jeans"
 N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, lors de
+; コンセント; prise de courant, prise électrique; de l'anglais "concentric plug"
 ; シロップ; sirop
 ; システム; système; de l'anglais "system"
 ; トンネル; tunnel; de l'anglais "tunnel"
 ; ビデオ; vidéo; de l'anglais "video"
 上陸; じょうりく; débarquement, le fait de toucher la côté (pour un typhon par exemple)
+下宿; げしゅく; pension, logement
 下火; したび; fait de décliner, faiblir, perdre en force
 下駄; げた; sandale japonaise en bois
 不具合; ふぐあい; défaut, dysfonctionnement
@@ -34,6 +36,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 今時; いまどき; de nos jours
 仏壇; ぶつだん; autel bouddhique domestique
 仏花; ぶっか; fleurs pour autel bouddhique domestique
+以前; いぜん; avant, auparavant, autrefois
 仮面; かめん; masque, déguisement
 伝統的; でんとうてき; traditionnel
 余計; よけい; excessif, superflu, inutile
@@ -52,6 +55,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 凧; たこ; cerf-volant
 分析; ぶんせき; analyse
 切断; せつだん; coupure, amputation
+刑事; けいじ; inspecteur de police, détective
 割り勘; わりかん; paiement partagé
 割引; わりびき; réduction, rabais, remise
 助手; じょしゅ; assistant, aide
@@ -72,6 +76,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 向かう; むかう・むかいます; se diriger vers
 向日葵; ひまわり; tournesol
 吹き出し; ふきだし; bulle de bande dessinée
+味方; みかた; allié, ami
 呼吸; こきゅう; cycles respiratoires (inspiration et expiration)
 四季; しき; les 4 saisons
 回転; かいてん; tour, roulement, révolution, rotation
@@ -97,6 +102,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 室温; しつおん; température de la pièce, température ambiante
 寝付く; ねつく・ねつきます; s'endormir, trouver le sommeil
 審判; しんぱん; arbitre, juge
+寿命; じゅみょう; durée de vie, longévité
+小遣い; こづかい; argent de poche
 山荘; さんそう; chalet
 山頂; さんちょう; sommet d'une montagne, pic
 左利き; ひだりきき; gaucher
@@ -115,6 +122,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 意義; いぎ; signification, sens, valeur
 愛想; あいそう; amabilité
 成分; せいぶん; ingrédient, composant
+成功; せいこう; succès, réussite
 我儘; わがまま; égoïsme, caprice, désobéissance
 我儘な子供; わがままなこども; enfant gâté
 戦車; せんしゃ; char, tank
@@ -127,12 +135,14 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 捻挫; ねんざ; entorse, foulure
 改修; かいしゅう; réparation, amélioration
 敗戦; はいせん; défaite (d'une guerre)
+敵; てき; ennemi, adversaire, concurrent
 方言; ほうげん; dialecte
 日帰り; ひがえり; voyage d'une journée
 昼寝; ひるね; sieste
 時差ぼけ; じさぼけ; fatigue du décalage horaire, jetlag
 晴天; せいてん; beau temps, ciel calme
 暗号; あんごう; mot de passe, code
+曖昧; あいまい; ambigu, vague
 曲; きょく; morceau de musique, air musical, mélodie
 更新; こうしん; renouvellement, mise à jour, amélioration
 有利; ゆうり; avantageux
@@ -173,6 +183,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 片道; かたみち; aller simple
 牧師; ぼくし; pasteur, révérend
 特訓; とっくん; entraînement intensif
+犯人; はんにん; criminel, délinquant, coupable
 王国; おうこく; royaume
 王女; おうじょ; princesse
 現代的; げんだいてき; moderne
@@ -222,6 +233,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 脱水; だっすい; déshydratation, évaporation
 腐る; くさる・くさります; pourir, se corrompre, devenir mauvais (aliment)
 舐める; なめる・なめます; lécher, goûter
+船便; ふなびん; poste maritime, transport du courrier par bateau
 船長; せんちょう; capitaine d'un navire
 芋; いも; patate
 花びら; はなびら; pétale
@@ -234,6 +246,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 蒸し鶏; むしどり; poulet cuit à la vapeur
 薬局; やっきょく; pharmacie
 虹彩; こうさい; iris (oeil)
+血圧; けつあつ; pression artérielle
 要る; いる・いります; avoir besoin de
 要求; ようきゅう; demande, requête
 要求する; ようきゅうする・ようきゅうします; demander, faire une requête
@@ -261,6 +274,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 還暦; かんれき; 60ème anniversaire
 郵送する; ゆうそうする・ゆうそうします; poster, expédier (une lettre)
 都; みやこ; capitale
+都合; つごう; circonstance, occasion
 酉年; とりどし; année du coq
 酸性; さんせい; acidité
 重大; じゅうだい; important, grave, sérieux
@@ -288,6 +302,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 飾り; かざり; décoration, ornement
 餌; えさ; appât, nourriture pour animaux
 あばら骨; あばらぼね; côte (os)
+高速; こうそく; autoroute, grande vitesse, vitesse rapide
 魔除け; まよけ; charme, amulette, talisman
 鳩; はと; pigeon, colombe
 黄身; きみ; jaune d'oeuf
