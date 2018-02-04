@@ -1,3 +1,4 @@
+; ボール; balle, ballon; de l'anglais "ball"
 ; ボルト; boulon; de l'anglais "bolt"
 ; レンガ; brique
 ; レジ; caisse; de l'anglais "register"
@@ -27,6 +28,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 世代; せだい; génération
 主婦; しゅふ; femme au foyer
 主語; しゅご; sujet (grammaire)
+主食; しゅしょく; aliment de base
 乾燥; かんそう; arridité, sécheresse, déshydratation
 交換; こうかん; échange, remplacement, substitution
 交換する; こうかんする・こうかんします; échanger, remplacer
@@ -45,8 +47,10 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 お供え; おそなえ; offrande
 価値; かち; valeur, mérite, prix
 侵入; しんにゅう; invasion, pénétration
+停留所; ていりゅうじょ; arrêt de bus/tram
 停車; ていしゃ; arrêt (d'un train, d'un véhicule…)
 優勝; ゆうしょう; victoire
+入学; にゅうがく; entrée, admission (école/université)
 共通; きょうつう; en commun
 具体; ぐたい; concret, tangible
 内見; ないけん; visite (d'un bien immobilier)
@@ -95,6 +99,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 妖精; ようせい; fée, esprit
 姉妹; しまい; soeurs
 字幕; じまく; sous-titre
+ご存知; ごぞんじ; fait de savoir, d'avoir connaissance de
 学割; がくわり; réduction étudiante
 宇宙; うちゅう; univers, espace, cosmos
 定理; ていり; théorème
@@ -113,6 +118,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 弾; たま; balle, projectile
 当番; とうばん; être en service, être de garde
 彗星; すいせい; comète
+役所; やくしょ; centre administratif, bureau administratif
 往復; おうふく; aller-retour
 復活; ふっかつ; résurrection
 徹夜; てつや; nuit blanche
@@ -123,6 +129,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 愛想; あいそう; amabilité
 成分; せいぶん; ingrédient, composant
 成功; せいこう; succès, réussite
+成績; せいせき; résultat, note
 我儘; わがまま; égoïsme, caprice, désobéissance
 我儘な子供; わがままなこども; enfant gâté
 戦車; せんしゃ; char, tank
@@ -135,6 +142,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 捻挫; ねんざ; entorse, foulure
 改修; かいしゅう; réparation, amélioration
 敗戦; はいせん; défaite (d'une guerre)
+教科書; きょうかしょ; manuel scolaire
 敵; てき; ennemi, adversaire, concurrent
 方言; ほうげん; dialecte
 日帰り; ひがえり; voyage d'une journée
@@ -156,6 +164,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 来日; らいにち; venue au Japon
 〜杯; 〜はい; compteur boissons dans des tasses ou des verres
 梯子; はしご; échelle
+椀; わん; bol (soupe)
+楽; らく; confortable, facile, aisé
 標準; ひょうじゅん; norme, moyenne, standard
 模様; もよう; motif, figure, aspect
 檜; ひのき; cyprès du Japon
@@ -197,6 +207,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 発酵; はっこう; fermentation
 登頂; とうちょう; ascension d'un sommet
 白人; はくじん; personne blanche
+白米; はくまい; riz blanc
 白雪; しらゆき; neige blanche
 白雪姫; しらゆきひめ; Blanche-Neige
 皮肉; ひにく; ironie, sarcasme, cynisme
@@ -232,11 +243,14 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 胃痛; いつう; mal au ventre
 脱水; だっすい; déshydratation, évaporation
 腐る; くさる・くさります; pourir, se corrompre, devenir mauvais (aliment)
+自宅; じたく; domicile
 舐める; なめる・なめます; lécher, goûter
 船便; ふなびん; poste maritime, transport du courrier par bateau
 船長; せんちょう; capitaine d'un navire
 芋; いも; patate
 花びら; はなびら; pétale
+花嫁; はなよめ; jeune mariée
+花瓶; かびん; vase
 芸能人; げいのうじん; artiste du spectacle (comédien, danseur, chanteur, acteur)
 芸能界; げいのうかい; monde de l'industrie du spectacle
 茄子; なす; aubergine
@@ -298,6 +312,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 音声; おんせい; voix
 順番; じゅんばん; ordre, tour
 領事館; りょうじかん; consulat
+食器; しょっき; vaisselle
 飯; めし; repas, riz cuit (famillié)
 飾り; かざり; décoration, ornement
 餌; えさ; appât, nourriture pour animaux
