@@ -14,6 +14,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 ; システム; système; de l'anglais "system"
 ; トンネル; tunnel; de l'anglais "tunnel"
 ; ビデオ; vidéo; de l'anglais "video"
+一部; いちぶ; une partie (d'un ensemble)
 上陸; じょうりく; débarquement, le fait de toucher la côté (pour un typhon par exemple)
 下宿; げしゅく; pension, logement
 下火; したび; fait de décliner, faiblir, perdre en force
@@ -50,6 +51,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 停留所; ていりゅうじょ; arrêt de bus/tram
 停車; ていしゃ; arrêt (d'un train, d'un véhicule…)
 優勝; ゆうしょう; victoire
+児童; じどう; jeunes enfants
 入学; にゅうがく; entrée, admission (école/université)
 共通; きょうつう; en commun
 具体; ぐたい; concret, tangible
@@ -62,6 +64,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 刑事; けいじ; inspecteur de police, détective
 割り勘; わりかん; paiement partagé
 割引; わりびき; réduction, rabais, remise
+劇団; げきだん; troupe de théâtre, compagnie théâtrale
 助手; じょしゅ; assistant, aide
 勘違い; かんちがい; malentendu, erreur
 勝負; しょうぶ; match, combat
@@ -89,6 +92,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 地名; ちめい; toponyme, nom d'un lieu
 塔; とう; tour, reliquaire, pagode
 塩田; えんでん; marais salant
+増やす; ふやす・ふやします; augmenter, accroître, élargir
 夕焼け; ゆうやけ; coucher du soleil, crépuscule
 大使; たいし; ambassadeur
 大将; たいしょう; général, amiral, chef
@@ -104,6 +108,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 宇宙; うちゅう; univers, espace, cosmos
 定理; ていり; théorème
 定番; ていばん; standard, stéréotype
+実験; じっけん; expérience
 室温; しつおん; température de la pièce, température ambiante
 寝付く; ねつく・ねつきます; s'endormir, trouver le sommeil
 審判; しんぱん; arbitre, juge
@@ -114,6 +119,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 左利き; ひだりきき; gaucher
 巨大; きょだい; énorme, gigantesque, colossal
 年を取る; としをとる・としをとります; vieillir, prendre de l'âge, devenir vieux
+広告; こうこく; publicité, annonce
 床; ゆか; sol, plancher
 弾; たま; balle, projectile
 当番; とうばん; être en service, être de garde
@@ -137,6 +143,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 押入れ; おしいれ; placard
 担当する; たんとうする・たんとうします; être en charge de, être responsable de
 拝見; はいけん; fait de regarder qqch/qqun (poli)
+拾う; ひろう・ひろいます; ramasser, recueillir
 捕まる; つかまる・つかまります; être attrapé, être capturé, être pris
 捩子; ねじ; vis
 捻挫; ねんざ; entorse, foulure
@@ -180,6 +187,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 お洒落; おしゃれ; élégant, bien habillé
 洗濯機; せんたっき; machine à laver
 洗車; せんしゃ; lavage de voiture
+消費; しょうひ; consommation
+消費者; しょうひしゃ; consommateur
 深夜; しんや; tard dans la nuit
 添付する; てんぷする・てんぷします; joindre (qqch à qqch)
 添付; てんぷ; pièce jointe
@@ -188,6 +197,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 湿度; しつど; taux d'humidité
 満喫; まんきつ; profiter pleinement de, avoir une quantité suffisante de ou de ne plus avoir besoin de
 満室; まんしつ; complet, plus rien de libre (hôtel)
+無視する; むしする・むしします; ignorer, ne pas tenir compte de, négliger
 無駄; むだ; futilité, inutilité
 熱燗; あつかん; saké chaud
 片道; かたみち; aller simple
@@ -233,6 +243,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 素麺; そうめん; nouilles japonaises au vermicelle
 経営者; けいえいしゃ; directeur, manager, propriétaire
 結ぶ; むすぶ・むすびます; lier
+結局; けっきょく; finalement, en fin de compte
 継続; けいぞく; continuation, continuité
 綴り; つづり; orthographe
 線路; せんろ; rail, voie ferrée
@@ -266,6 +277,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 要求する; ようきゅうする・ようきゅうします; demander, faire une requête
 規模; きぼ; échelle, envergure, ampleur
 視線; しせん; regard
+親戚; しんせき; parent, famille, proche
 観覧車; かんらんしゃ; grande roue
 詐欺; さぎ; escroquerie, fraude
 話題; わだい; sujet (d'une conversation, d'un livre), thème
@@ -277,6 +289,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 譲る; ゆずる・ゆずります; céder, léguer, transmettre (qqch à qqun)
 貧血; ひんけつ; anémie (manque de sang)
 賄賂; わいろ; pot-de-vin, dessous-de-table
+車庫; しゃこ; garage
+軒並み; のきなみ; successivement
 転送; てんそう; réexpédition, téléportation, transmission
 農家; のうか; fermier
 迷信; めいしん; superstition
@@ -307,6 +321,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 除く; のぞく・のぞきます; ôter, retirer, excepter
 集合; しゅうごう; rassemblement, assemblée, réunion
 離陸; りりく; décollage
+電柱; でんちゅう; poteau électrique, poteau téléphonique
 革; かわ; cuir, peau (d'un fruit/légume)
 革命; かくめい; révolution
 音声; おんせい; voix
