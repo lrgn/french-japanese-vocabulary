@@ -12,6 +12,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 ; コンセント; prise de courant, prise électrique; de l'anglais "concentric plug"
 ; シロップ; sirop
 ; システム; système; de l'anglais "system"
+; しつこい; tenace, persistant, obstiné
 ; トンネル; tunnel; de l'anglais "tunnel"
 ; ビデオ; vidéo; de l'anglais "video"
 一部; いちぶ; une partie (d'un ensemble)
@@ -62,6 +63,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 分析; ぶんせき; analyse
 切断; せつだん; coupure, amputation
 刑事; けいじ; inspecteur de police, détective
+削除; さくじょ; suppression, effacement
+削除する; さくじょする・さくじょします; supprimer, effacer
 割り勘; わりかん; paiement partagé
 割引; わりびき; réduction, rabais, remise
 劇団; げきだん; troupe de théâtre, compagnie théâtrale
@@ -73,6 +76,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 印刷; いんさつ; impression (de documents)
 印刷機; いんさつき; presse d'imprimerie, imprimante
 原住民; げんじゅうみん; aborigène, natif
+受信; じゅしん; réception (d'un message)
 受取; うけとり; reçu
 古本; ふるほん; livre d'occasion, vieux livre
 古里; ふるさと; pays natal, village natal
@@ -140,6 +144,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 我儘な子供; わがままなこども; enfant gâté
 戦車; せんしゃ; char, tank
 扉; とびら; porte, battant
+扶養; ふよう; entretien, maintenance, maintenance
 押入れ; おしいれ; placard
 担当する; たんとうする・たんとうします; être en charge de, être responsable de
 拝見; はいけん; fait de regarder qqch/qqun (poli)
@@ -153,6 +158,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 敵; てき; ennemi, adversaire, concurrent
 方言; ほうげん; dialecte
 日帰り; ひがえり; voyage d'une journée
+日食; にっしょく; éclipse de Soleil, éclipse solaire
 昼寝; ひるね; sieste
 時差ぼけ; じさぼけ; fatigue du décalage horaire, jetlag
 晴天; せいてん; beau temps, ciel calme
@@ -160,8 +166,11 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 曖昧; あいまい; ambigu, vague
 曲; きょく; morceau de musique, air musical, mélodie
 更新; こうしん; renouvellement, mise à jour, amélioration
+月末; げつまつ; fin du mois
+月食; げっしょく; éclipse de lune
 有利; ゆうり; avantageux
 朝焼け; あさやけ; couleurs du ciel à l'aube
+期間; きかん; période, intervalle
 本店; ほんてん; siège, magasin, bureau central
 本社; ほんしゃ; maison mère, siège social
 本部; ほんぶ; siège social, quartier général
@@ -187,6 +196,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 お洒落; おしゃれ; élégant, bien habillé
 洗濯機; せんたっき; machine à laver
 洗車; せんしゃ; lavage de voiture
+海水; かいすい; eau de mer
 消費; しょうひ; consommation
 消費者; しょうひしゃ; consommateur
 深夜; しんや; tard dans la nuit
@@ -252,8 +262,10 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 老ける; ふける・ふけます; vieillir, avoir l'air vieux
 肘; ひじ; coude
 胃痛; いつう; mal au ventre
+背筋; はいきん; muscles dorsaux, colonne vertébrale
 脱水; だっすい; déshydratation, évaporation
 腐る; くさる・くさります; pourir, se corrompre, devenir mauvais (aliment)
+腹筋; ふっきん; muscles abdominaux
 自宅; じたく; domicile
 舐める; なめる・なめます; lécher, goûter
 船便; ふなびん; poste maritime, transport du courrier par bateau
@@ -294,6 +306,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 転送; てんそう; réexpédition, téléportation, transmission
 農家; のうか; fermier
 迷信; めいしん; superstition
+送信; そうしん; envoi, émission (d'un message)
 通貨; つうか; currency
 通貨ペア; つうかペア; currency pair
 通り過ぎる; とおりすぎる・とおりすぎます; passer devant, dépasser, traverser
@@ -321,7 +334,9 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 除く; のぞく・のぞきます; ôter, retirer, excepter
 集合; しゅうごう; rassemblement, assemblée, réunion
 離陸; りりく; décollage
+雪崩; なだれ; avalanche
 電柱; でんちゅう; poteau électrique, poteau téléphonique
+霰; あられ; grêle, grêlon
 革; かわ; cuir, peau (d'un fruit/légume)
 革命; かくめい; révolution
 音声; おんせい; voix
