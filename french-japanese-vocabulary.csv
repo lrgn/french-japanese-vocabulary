@@ -44,6 +44,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 仮面; かめん; masque, déguisement
 仲; なか; relations personnelles, rapports
 伝統的; でんとうてき; traditionnel
+位置; いち; position, lieu, place
 体側; たいそく; coté du corps
 余計; よけい; excessif, superflu, inutile
 作業; さぎょう; opération, travail, tâche
@@ -66,6 +67,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 分析; ぶんせき; analyse
 切断; せつだん; coupure, amputation
 刑事; けいじ; inspecteur de police, détective
+列; れつ; queue, file d'attente, ligne
 制服; せいふく; uniforme, tenue
 削除; さくじょ; suppression, effacement
 削除する; さくじょする・さくじょします; supprimer, effacer
@@ -73,6 +75,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 割引; わりびき; réduction, rabais, remise
 劇団; げきだん; troupe de théâtre, compagnie théâtrale
 助手; じょしゅ; assistant, aide
+助言; じょげん; avis, suggestion, conseil
 勘違い; かんちがい; malentendu, erreur
 勝負; しょうぶ; match, combat
 半袖; はんそで; manches courtes
@@ -87,6 +90,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 可能; かのう; possible, réalisable
 右利き; みぎきき; droitier
 合併; がっぺい; fusion
+合格; ごうかく; réussite, succès (d'un examen)
 名所; めいしょ; lieu célèbre, site réputé
 名産; めいさん; spécialité (locale), produit réputé
 向かう; むかう・むかいます; se diriger vers
@@ -97,6 +101,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 四季; しき; les 4 saisons
 回転; かいてん; tour, roulement, révolution, rotation
 国内; こくない; national
+国家; こっか; état, nation, pays
 在り処; ありか; emplacement
 地名; ちめい; toponyme, nom d'un lieu
 塔; とう; tour, reliquaire, pagode
@@ -174,9 +179,11 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 曖昧; あいまい; ambigu, vague
 曲; きょく; morceau de musique, air musical, mélodie
 更新; こうしん; renouvellement, mise à jour, amélioration
+最初; さいしょ; tout début, le premier
 月末; げつまつ; fin du mois
 月食; げっしょく; éclipse de lune
 有利; ゆうり; avantageux
+有名; ゆうめい; célèbre, fameux
 朝焼け; あさやけ; couleurs du ciel à l'aube
 期間; きかん; période, intervalle
 本店; ほんてん; siège, magasin, bureau central
@@ -193,6 +200,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 標準; ひょうじゅん; norme, moyenne, standard
 模様; もよう; motif, figure, aspect
 檜; ひのき; cyprès du Japon
+正直; しょうじき; honnête, intègre, franc
 正面; しょうめん; face, front
 段ボール; だんボール; carton
 毒; どく; poison, venin
@@ -201,6 +209,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 水槽; すいそう; aquarium (récipient)
 水着; みずぎ; maillot de bain
 汁; しる; soupe, jus, bouillon
+治す; なおす・なおします; guérir (qqun)
 〜泊; 〜はく; compteur pour les nuits d'un séjour
 お洒落; おしゃれ; élégant, bien habillé
 洗濯機; せんたっき; machine à laver
@@ -213,6 +222,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 深夜; しんや; tard dans la nuit
 添付する; てんぷする・てんぷします; joindre (qqch à qqch)
 添付; てんぷ; pièce jointe
+済む; すむ・すみます; finir (qqch)
 お湯; おゆ; eau chaude
 湿布; しっぷ; compresse, cataplasme
 湿度; しつど; taux d'humidité
@@ -246,6 +256,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 直行便; ちょっこうびん; vol direct
 直通; ちょくつう; direct, sans arrêt (train, métro)
 相当; そうとう; convenable, approprié
+相手; あいて; adversaire, compagnon, partenaire
 真っ黒; まっくろ; tout noir, noir comme du charbon
 着替える; きがえる・きがえます; changer de vêtement, se changer
 瞳子; どうし; prunelle, pupille
@@ -276,6 +287,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 背筋; はいきん; muscles dorsaux, colonne vertébrale
 脱水; だっすい; déshydratation, évaporation
 腐る; くさる・くさります; pourir, se corrompre, devenir mauvais (aliment)
+腹; はら; ventre, estomac, abdomen
 腹筋; ふっきん; muscles abdominaux
 自宅; じたく; domicile
 舐める; なめる・なめます; lécher, goûter
@@ -288,6 +300,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 芸能人; げいのうじん; artiste du spectacle (comédien, danseur, chanteur, acteur)
 芸能界; げいのうかい; monde de l'industrie du spectacle
 茄子; なす; aubergine
+草; くさ; herbe
 草履; ぞうり; sandales en paille de riz
 落ち着き; おちつき; calme, aplomb, sérénité
 葬式; そうしき; funérailles, obsèques, enterrement
@@ -307,6 +320,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 詳しい; くわしい; précis, détaillé
 誘う; さそう・さそいます; inviter, tenter, attirer
 語源; ごげん; racine d'un mot, étymologie
+読書; どくしょ; la lecture
 諄い; くどい; verbeux, répétitif, redondant
 諺; ことわざ; proverbe
 謙遜; けんそん; humilité, modestie
@@ -325,6 +339,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 通貨ペア; つうかペア; currency pair
 通り過ぎる; とおりすぎる・とおりすぎます; passer devant, dépasser, traverser
 運; うん; fortune, chance, destinée
+違反; いはん; violation du droit, transgression, infraction
 遣っ付ける; やっつける・やっつけます; battre, attaquer, terminer, finir
 遺跡; いせき; vestiges, ruines
 還暦; かんれき; 60ème anniversaire
