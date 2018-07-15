@@ -38,6 +38,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 主語; しゅご; sujet (grammaire)
 主食; しゅしょく; aliment de base
 乾燥; かんそう; arridité, sécheresse, déshydratation
+予習; よしゅう; préparation de cours
+事情; じじょう; circonstances, conditions, situation
 交換; こうかん; échange, remplacement, substitution
 交換する; こうかんする・こうかんします; échanger, remplacer
 交通; こうつう; circulation, trafic, transports
@@ -55,6 +57,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 伝統的; でんとうてき; traditionnel
 伝記; でんき; biographie
 位置; いち; position, lieu, place
+住民; じゅうみん; habitants, population
 体側; たいそく; coté du corps
 余計; よけい; excessif, superflu, inutile
 作業; さぎょう; opération, travail, tâche
@@ -63,6 +66,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 お供え; おそなえ; offrande
 価値; かち; valeur, mérite, prix
 侵入; しんにゅう; invasion, pénétration
+信号; しんごう; feu de signalisation, signal
 〜倍; 〜ばい; 〜fois
 倒れる; たおれる・たおれます; s'effondrer, s'évanouir
 停留所; ていりゅうじょ; arrêt de bus/tram
@@ -78,6 +82,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 内覧; ないらん; visite (d'un bien immobilier)
 円周率; えんしゅうりつ; Pi (3.14)
 凧; たこ; cerf-volant
+出席; しゅっせき; présence (d'une personne)
 出発; しゅうぱつ; départ
 分析; ぶんせき; analyse
 切断; せつだん; coupure, amputation
@@ -150,6 +155,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 姉妹; しまい; soeurs
 字幕; じまく; sous-titre
 ご存知; ごぞんじ; fait de savoir, d'avoir connaissance de
+学ぶ; まなぶ・まなびます; apprendre en profondeur, étudier
 学割; がくわり; réduction étudiante
 宇宙; うちゅう; univers, espace, cosmos
 安定; あんてい; stabilité, équilibre
@@ -158,6 +164,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 定番; ていばん; standard, stéréotype
 実験; じっけん; expérience
 室温; しつおん; température de la pièce, température ambiante
+家事; かじ; corvées, ménage, travaux ménagers
 寝付く; ねつく・ねつきます; s'endormir, trouver le sommeil
 審判; しんぱん; arbitre, juge
 寿命; じゅみょう; durée de vie, longévité
@@ -172,6 +179,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 巨大; きょだい; énorme, gigantesque, colossal
 年を取る; としをとる・としをとります; vieillir, prendre de l'âge, devenir vieux
 年齢; ねんれい; âge
+幸い; さいわい; bonheur, chanceux
 幸運; こううん; chance, bonne fortune
 広告; こうこく; publicité, annonce
 床; ゆか; sol, plancher
@@ -195,7 +203,9 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 怪獣; かいじゅう; monstre
 情感; じょうかん; émotion, sentiment, sensibilité
 意義; いぎ; signification, sens, valeur
+愛情; あいじょう; amour, affection, tendresse
 愛想; あいそう; amabilité
+感じる; かんじる・かんじます; ressentir, éprouver (qqch)
 態度; たいど; attitude, comportement, manières
 成分; せいぶん; ingrédient, composant
 成功; せいこう; succès, réussite
@@ -264,6 +274,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 権利; けんり; droit, privilège
 機会; きかい; occasion, chance, opportunité
 檜; ひのき; cyprès du Japon
+欠席; けっせき; absence
 正直; しょうじき; honnête, intègre, franc
 正面; しょうめん; face, front
 段ボール; だんボール; carton
@@ -370,6 +381,9 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 締める; しめる・しめます; attacher, serrer, fixer (qqch)
 縁起; えんぎ; augure, présage
 繰り返す; くりかえす・くりかえします; répéter, refaire (qqch)
+美人; びじん; belle femme
+翻訳; ほんやく; traduction
+翻訳する; ほんやくする・ほんやくします; traduire
 老ける; ふける・ふけます; vieillir, avoir l'air vieux
 考慮; こうりょ; considération, réflexion
 考慮する; こうりょする・こうりょします; considérer, prendre en compte
@@ -437,6 +451,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 送信; そうしん; envoi, émission (d'un message)
 透明; とうめい; transparent, clair
 通う; かよう・かよいます; faire la navette, aller et venir, faire régulièrement un trajet
+通す; とおす; faire passer, enfiler (qqch)
 通信; つうしん; correspondance, communication, transmission, dépêche
 通勤; つうきん; le fait d'aller au travail
 通貨; つうか; currency
@@ -475,8 +490,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 雪崩; なだれ; avalanche
 電柱; でんちゅう; poteau électrique, poteau téléphonique
 霰; あられ; grêle, grêlon
+非常; ひじょう; extraordinaire, étonnant, urgent
 非常に; ひじょうに; extrêmement
-非常; ひじょう; urgence, extraordinaire, inhabituel
 面接; めんせつ; entretien (d'embauche, pour entrer dans une université)
 革; かわ; cuir, peau (d'un fruit/légume)
 革命; かくめい; révolution
