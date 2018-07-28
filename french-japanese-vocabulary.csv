@@ -39,6 +39,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 主食; しゅしょく; aliment de base
 乾燥; かんそう; arridité, sécheresse, déshydratation
 予習; よしゅう; préparation de cours
+事実; じじつ; fait, vérité, réalité
 事情; じじょう; circonstances, conditions, situation
 交換; こうかん; échange, remplacement, substitution
 交換する; こうかんする・こうかんします; échanger, remplacer
@@ -72,6 +73,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 倒れる; たおれる・たおれます; s'effondrer, s'évanouir
 停留所; ていりゅうじょ; arrêt de bus/tram
 停車; ていしゃ; arrêt (d'un train, d'un véhicule…)
+健康; けんこう; santé
 偶々; たまたま; par hasard, accidentellement, par chance
 偶に; たまに; rarement, occasionnellement
 優勝; ゆうしょう; victoire
@@ -92,6 +94,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 列; れつ; queue, file d'attente, ligne
 制度; せいど; système, institution, organisation
 制服; せいふく; uniforme, tenue
+刺激; しげき; stimulation, excitation
 削除; さくじょ; suppression, effacement
 削除する; さくじょする・さくじょします; supprimer, effacer
 割る; わる・わります; casser, briser, séparer
@@ -142,11 +145,13 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 地名; ちめい; toponyme, nom d'un lieu
 地域; ちいき; région, zone géographique
 地面; じめん; sol, surface de la terre
+堀; ほり; fossé, douve
 塔; とう; tour, reliquaire, pagode
 塩田; えんでん; marais salant
 増やす; ふやす・ふやします; augmenter, accroître, élargir
 夕べ; ゆうべ; soir, soirée, hier soir
 夕焼け; ゆうやけ; coucher du soleil, crépuscule
+外交; がいこう; diplomatie
 大使; たいし; ambassadeur
 大切; たいせつ; important, précieux
 大将; たいしょう; général, amiral, chef
@@ -207,6 +212,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 往復; おうふく; aller-retour
 復活; ふっかつ; résurrection
 復習; ふくしゅう; révision
+微妙; びみょう; délicat, subtil, sensible
 徹夜; てつや; nuit blanche
 性格; せいかく; caractère, personnalité
 怪獣; かいじゅう; monstre
@@ -247,12 +253,14 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 断る; ことわる・ことわります; refuser, rejeter, décliner
 方向; ほうこう; direction, orientation, sens
 方言; ほうげん; dialecte
+既に; すでに; déjà, trop tard
 日帰り; ひがえり; voyage d'une journée
 日課; にっか; activité quotidienne, tâche journalière, routine
 日食; にっしょく; éclipse de Soleil, éclipse solaire
 昨夜; さくや; hier soir, la nuit dernière
 昼寝; ひるね; sieste
 時差ぼけ; じさぼけ; fatigue du décalage horaire, jetlag
+普段; ふだん; ordinaire, habituel
 晴天; せいてん; beau temps, ciel calme
 暗号; あんごう; mot de passe, code
 曖昧; あいまい; ambigu, vague
@@ -347,6 +355,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 留学; りゅうがく; études à l'étranger
 留学する; りゅうがくする・りゅうがくします; étudier à l'étranger
 留学生; りゅうがくせい; étudiant étranger
+異常; いじょう; anormal, étrange, inhabituel
 発券; はっけん; émission (billet, ticket, reçu)
 発注; はっちゅう; commande
 発注する; はっちゅうする・はっちゅうします; commander, passer une commande
@@ -368,6 +377,8 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 相当; そうとう; convenable, approprié
 相手; あいて; adversaire, compagnon, partenaire
 省く; はぶく・はぶきます; omettre, éliminer, ôter (qqch)
+県; けん; préfecture, département
+真似; まね; imitation, mimique, parodie
 真っ黒; まっくろ; tout noir, noir comme du charbon
 着替える; きがえる・きがえます; changer de vêtement, se changer
 瞳子; どうし; prunelle, pupille
@@ -450,11 +461,14 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 親友; しんゆう; ami intime, confident
 親戚; しんせき; parent, famille, proche
 観覧車; かんらんしゃ; grande roue
+記録; きろく; enregistrement, notes, document
+記録する; きろくする・きろくします; enregistrer, noter, documenter
 訪問する; ほうもんする・ほうもんします; rendre visite
 訪問; ほうもん; visite
 詐欺; さぎ; escroquerie, fraude
 評価; ひょうか; évaluation
 詫びる; わびる・わびます; s'excuser, demander pardon
+詰める; つめる・つめます; remplir, boucher (qqch)
 話題; わだい; sujet (d'une conversation, d'un livre), thème
 詳しい; くわしい; précis, détaillé
 誘う; さそう・さそいます; inviter, tenter, attirer
@@ -534,6 +548,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 飾り; かざり; décoration, ornement
 餌; えさ; appât, nourriture pour animaux
 あばら骨; あばらぼね; côte (os)
+骨折; こっせつ; fracture (d'un os)
 高度; こうど; altitude, hauteur
 高速; こうそく; autoroute, grande vitesse, vitesse rapide
 魔除け; まよけ; charme, amulette, talisman
