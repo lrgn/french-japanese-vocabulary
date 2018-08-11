@@ -46,6 +46,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 交換; こうかん; échange, remplacement, substitution
 交換する; こうかんする・こうかんします; échanger, remplacer
 交通; こうつう; circulation, trafic, transports
+交際; こうさい; relation, compagnie, amitié
 人工; じんこう; artificiel
 人数; にんずう; nombre de personnes
 今回; こんかい; cette fois-ci
@@ -63,13 +64,16 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 住民; じゅうみん; habitants, population
 体側; たいそく; coté du corps
 余計; よけい; excessif, superflu, inutile
+作文; さくぶん; composition écrite, rédaction, dissertation
 作業; さぎょう; opération, travail, tâche
 使用; しよう; utilisation, usage
 例文; れいぶん; phrase exemple
 お供え; おそなえ; offrande
 価値; かち; valeur, mérite, prix
 侵入; しんにゅう; invasion, pénétration
+係; かかり; officiel, responsable
 信号; しんごう; feu de signalisation, signal
+修理する; しゅうりする・しゅうりします; réparer, dépanner
 俳優; はいゆう; acteur, actrice, artiste sur scène
 〜倍; 〜ばい; 〜fois
 倒れる; たおれる・たおれます; s'effondrer, s'évanouir
@@ -95,6 +99,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 切断; せつだん; coupure, amputation
 刑事; けいじ; inspecteur de police, détective
 列; れつ; queue, file d'attente, ligne
+列車; れっしゃ; train (ordinaire)
 制度; せいど; système, institution, organisation
 制服; せいふく; uniforme, tenue
 刺激; しげき; stimulation, excitation
@@ -182,6 +187,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 実験; じっけん; expérience
 室温; しつおん; température de la pièce, température ambiante
 家事; かじ; corvées, ménage, travaux ménagers
+寄付; きふ; don, donation, contribution
 寝付く; ねつく・ねつきます; s'endormir, trouver le sommeil
 審判; しんぱん; arbitre, juge
 寿命; じゅみょう; durée de vie, longévité
@@ -189,6 +195,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 小遣い; こづかい; argent de poche
 尻尾; しっぽ; queue (d'un animal)
 屈伸; くっしん; élasticité
+届く; とどく・とどきます; arriver, parvenir, atteindre (objets)
 屋外; おくがい; à l'extérieur, en plein air, dehors
 山荘; さんそう; chalet
 山頂; さんちょう; sommet d'une montagne, pic
@@ -216,10 +223,12 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 役所; やくしょ; centre administratif, bureau administratif
 役者; やくしゃ; acteur, comédien
 往復; おうふく; aller-retour
+得意; とくい; fier, fierté
 復活; ふっかつ; résurrection
 復習; ふくしゅう; révision
 微妙; びみょう; délicat, subtil, sensible
 徹夜; てつや; nuit blanche
+徹底; てってい; exhaustivité, complétude, minutie
 性格; せいかく; caractère, personnalité
 怪獣; かいじゅう; monstre
 情感; じょうかん; émotion, sentiment, sensibilité
@@ -267,6 +276,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 昼寝; ひるね; sieste
 時差ぼけ; じさぼけ; fatigue du décalage horaire, jetlag
 普段; ふだん; ordinaire, habituel
+景色; けしき; paysage, panorama
 晴天; せいてん; beau temps, ciel calme
 暗号; あんごう; mot de passe, code
 曖昧; あいまい; ambigu, vague
@@ -400,6 +410,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 税金; ぜいきん; taxe, impôt
 種; たね; graine, pépin, grain
 突然; とつぜん; soudainement, d'un coup
+立場; たちば; point de vue, position, situation
 立食; りっしょく; buffet
 立ち食い; たちぐい; fait de manger debout, au comptoir
 立ち飲み; たちのみ; fait de boire debout, au comptoir
@@ -409,6 +420,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 純粋; じゅんすい; pure, véritable, vrai
 素麺; そうめん; nouilles japonaises au vermicelle
 細い; ほそい; mince, fin (objets long)
+紹介; しょうかい; présentation, introduction (d'une personne)
 経営者; けいえいしゃ; directeur, manager, propriétaire
 経験; けいけん; expérience (vécue)
 結ぶ; むすぶ・むすびます; lier
@@ -497,12 +509,14 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 貧血; ひんけつ; anémie (manque de sang)
 販売; はんばい; vente
 貼る; はる・はります; coller, étirer
+貿易; ぼうえき; commerce international
 賄賂; わいろ; pot-de-vin, dessous-de-table
 賛成; さんせい; accord, approbation, consentement
 贈り物; おくりもの; cadeau
 車庫; しゃこ; garage
 軒並み; のきなみ; successivement
 転送; てんそう; réexpédition, téléportation, transmission
+辞書; じしょ; dictionnaire
 農家; のうか; fermier
 迷信; めいしん; superstition
 送信; そうしん; envoi, émission (d'un message)
@@ -537,6 +551,7 @@ N/Vる/Vた + 際 + は/に; N/Vる/Vた + さい + は/に; à l'occasion de, l
 錠剤; じょうざい; comprimé, pastille, pilule, cachet
 鍋; なべ; casserole, marmite
 長所; ちょうしょ; point fort, avantage
+長期; ちょうき; longue période
 閉店; へいてん; fermeture d'un magasin (fin de journée)
 関連; かんれん; lien, rapport, relation
 限定; げんてい; limitation, restriction
